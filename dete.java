@@ -1,2 +1,2 @@
-public void setversoion£¨£©{
+public void master(){
 }
